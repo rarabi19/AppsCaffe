@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "com.example.apps_caffe.app-debug-31:/drawable_cream_top_corner_bg.xml.flat",
+        "source": "com.example.apps_caffe.app-main-33:/drawable/cream_top_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "com.example.apps_caffe.app-debug-31:/drawable_white_bg.xml.flat",
+        "source": "com.example.apps_caffe.app-main-33:/drawable/white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable_coffee_shop_bg.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable\\coffee_shop_bg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "com.example.apps_caffe.app-debug-31:/drawable_stroke_brown_bg.xml.flat",
+        "source": "com.example.apps_caffe.app-main-33:/drawable/stroke_brown_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_favorite_white.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\favorite_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "com.example.apps_caffe.app-debug-31:/drawable_brown_full_corner_bg.xml.flat",
+        "source": "com.example.apps_caffe.app-main-33:/drawable/brown_full_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_close.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.apps_caffe.app-debug-31:/drawable_white_top_corner_bg.xml.flat",
+        "source": "com.example.apps_caffe.app-main-33:/drawable/white_top_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_star.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xxxhdpi_plus.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable_splash_pic.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable\\splash_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable_orange_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable\\orange_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-debug-31:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.apps_caffe.app-main-33:\\drawable-xhdpi\\btn_5.png"
+    }
+]
